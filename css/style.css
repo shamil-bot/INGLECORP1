@@ -97,12 +97,12 @@ p{
 
 .header{
 	text-align:center;
-height: 675px;
+height: 700px;
 	background:url(../img/pw_maze_black_2X.png) left top repeat;
 	padding:10px 0;
 }
 .logo{
-	width:930px;
+	width: 930px;
 	margin:0 auto 35px;
 }
 .header h1{
