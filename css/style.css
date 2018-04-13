@@ -214,7 +214,7 @@ color: #fff;
 }
 
 .main-section{
-	padding:90px 0 110px;
+	padding:60px 0 110px;
 }
 
 
@@ -466,7 +466,7 @@ border: 2px solid #fff;
 
 .c-logo-part{
 	background:#7cc576;
-	padding:25px 0;
+	padding:15px 0;
     filter: alpha(opacity=60);
 }
 .c-logo-part ul{
@@ -484,7 +484,7 @@ border: 2px solid #fff;
 	margin: 0 20px;
 }
 .main-section.team{
-	padding:85px 0;
+	padding:65px 0;
 }
 .main-section.team h6{
 	margin-bottom:40px;
