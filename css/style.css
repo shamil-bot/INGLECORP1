@@ -183,13 +183,13 @@ color: #fff;
 }
 .main-nav{
 	text-align:center;
-	margin:10px 0 0px;
-	padding:0;
+	margin:8px;
+	padding:0px;
 	list-style:none;
 }
 .main-nav li{
 	display:inline;
-	margin:0 1px;
+	margin:1px;
 }
 .main-nav li a{
 	display:inline-block;
@@ -198,7 +198,7 @@ color: #fff;
 	font-family: 'Montserrat', sans-serif;
 	text-decoration: none;
 	line-height:20px;
-	margin:17px 32px;
+	margin:10px;
 	transition:all 0.3s ease-in-out;
 	-moz-transition:all 0.3s ease-in-out;
 	-webkit-transition:all 0.3s ease-in-out;
